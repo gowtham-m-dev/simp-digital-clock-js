@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(135deg, #fac6f4 0%, #cce7f5 100%);
+}
+
+#clock {
+    color: #0b0353;
+    font-size: 100px;
+    letter-spacing: 10px;
+    display: flex;
+    letter-spacing: 10px;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+}
